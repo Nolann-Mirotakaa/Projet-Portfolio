@@ -6,18 +6,10 @@ Ce projet est un **portfolio web personnel** réalisé dans le cadre du module *
 
 L’objectif est d’intégrer une maquette Figma de portfolio en utilisant un framework CSS, tout en respectant les principes de responsive design, de lisibilité du code et de bonnes pratiques front-end.
 
----
-
-## Aperçu du portfolio
-
-> 📸 À ajouter : captures d’écran du site (version desktop et mobile)
-
----
-
 ## Maquette Figma
 
 * Maquette issue de **Figma Community** (portfolio template)
-* Lien : [https://www.figma.com/community/portfolio-templates](https://www.figma.com/community/portfolio-templates)
+* Lien : [https://www.figma.com/community/portfolio-templates]([https://www.figma.com/community/portfolio-templates](https://www.figma.com/design/nQs3S1B9MsruPyFVvKOno6/Portfolio---Tomasz-Gajda--Community-?node-id=0-1&p=f&t=s7rQ4NTNu55VHV82-0))
 
 La maquette a été validée par le formateur avant le début de l’intégration.
 
@@ -37,12 +29,11 @@ Le portfolio contient les sections suivantes :
 
 ## Technologies utilisées
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (vanilla)**
-* **Bootstrap 5**
-* Font Awesome (icônes)
-* Google Fonts (Montserrat)
+* **HTML**
+* **CSS**
+* **Bootstrap **
+* Font Awesome
+* Google Fonts
 
 ---
 
@@ -57,30 +48,6 @@ portfolio/
 │── Cv Nolann 2025-2810.pdf
 │── README.md
 ```
-
----
-
-## Lancer le projet en local
-
-1. Cloner le dépôt Git :
-
-```bash
-git clone https://github.com/TON-USERNAME/portfolio.git
-```
-
-2. Ouvrir le fichier `index.html` dans un navigateur web
-
-Aucune installation ou serveur n’est nécessaire.
-
----
-
-## Déploiement
-
-Le site est hébergé en ligne via **GitHub Pages** (ou équivalent).
-
-👉 Lien du site : *à ajouter*
-
----
 
 ## Contact
 
