@@ -6,7 +6,7 @@ Ce projet est un **portfolio web personnel** réalisé dans le cadre du module *
 
 L’objectif est d’intégrer une maquette Figma de portfolio en utilisant un framework CSS, tout en respectant les principes de responsive design, de lisibilité du code et de bonnes pratiques front-end.
 
-```
+---
 
 ## Maquette Figma
 
