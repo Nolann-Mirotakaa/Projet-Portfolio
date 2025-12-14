@@ -6,12 +6,12 @@ Ce projet est un **portfolio web personnel** réalisé dans le cadre du module *
 
 L’objectif est d’intégrer une maquette Figma de portfolio en utilisant un framework CSS, tout en respectant les principes de responsive design, de lisibilité du code et de bonnes pratiques front-end.
 
+```
+
 ## Maquette Figma
 
 * Maquette issue de **Figma Community** (portfolio template)
 * Lien : [https://www.figma.com/community/portfolio-templates]([https://www.figma.com/community/portfolio-templates](https://www.figma.com/design/nQs3S1B9MsruPyFVvKOno6/Portfolio---Tomasz-Gajda--Community-?node-id=0-1&p=f&t=s7rQ4NTNu55VHV82-0))
-
-La maquette a été validée par le formateur avant le début de l’intégration.
 
 ---
 
@@ -55,7 +55,3 @@ portfolio/
 * **Email :** [nolann.chauveaud@ecole-hexagone.com](mailto:nolann.chauveaud@ecole-hexagone.com)
 * **GitHub :** [https://github.com/Nolann-Mirotakaa](https://github.com/Nolann-Mirotakaa)
 * **LinkedIn :** [https://www.linkedin.com/in/nolann-chauveaud-10683134a/](https://www.linkedin.com/in/nolann-chauveaud-10683134a/)
-
----
-
-© 2025 – Nolann Chauveaud
