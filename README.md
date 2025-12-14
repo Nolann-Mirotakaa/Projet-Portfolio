@@ -11,7 +11,7 @@ L’objectif est d’intégrer une maquette Figma de portfolio en utilisant un f
 ## Maquette Figma
 
 * Maquette issue de **Figma Community** (portfolio template)
-* Lien : [https://www.figma.com/community/portfolio-templates]([https://www.figma.com/community/portfolio-templates](https://www.figma.com/design/nQs3S1B9MsruPyFVvKOno6/Portfolio---Tomasz-Gajda--Community-?node-id=0-1&p=f&t=s7rQ4NTNu55VHV82-0))
+* Lien : [Portfilio](https://www.figma.com/design/nQs3S1B9MsruPyFVvKOno6/Portfolio---Tomasz-Gajda--Community-?node-id=0-1&p=f&t=s7rQ4NTNu55VHV82-0)
 
 ---
 
@@ -31,9 +31,9 @@ Le portfolio contient les sections suivantes :
 
 * **HTML**
 * **CSS**
-* **Bootstrap **
-* Font Awesome
-* Google Fonts
+* **Bootstrap**
+* **Font Awesome**
+* **Google Fonts**
 
 ---
 
